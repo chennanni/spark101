@@ -2,12 +2,12 @@
 
 This is a tutorial project for spark.
 
-Level 1
+Topic 1
 
 - HelloWorld
 - GetProjectPath
 
-Level 2
+Topic 2
 
 - WordCountApp
   - Count a, b occurrences in one file
